@@ -1,0 +1,2 @@
+# elementor
+add_elementor_custom_widget
